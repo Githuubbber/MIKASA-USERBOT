@@ -37,7 +37,7 @@
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-[![Deploy]()](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/DEADLY-KAAL-BOT)
+[![Deploy]()](https://heroku.com/deploy?template=https://github.com)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :                
